@@ -17,7 +17,7 @@ Check out the live demo of the Age Calculator [here](https://age-track.netlify.a
 ## 📸 Project Preview
 Here's a sneak peek of the Age Calculator application:
 
-![Project Preview](assets/Palindrome-Checker.png)
+![Project Preview](assets/Age-Calculator.png)
 
 ## 🚀 Features
 - Allows the user to input their birthdate.
