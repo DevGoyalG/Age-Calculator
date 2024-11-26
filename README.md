@@ -4,7 +4,7 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/DevGoyalG?tab=repositories)
 
 
-<h1 align="center"> Number Guessing Game </h1>
+<h1 align="center"> Age Calculator </h1>
 
 <p align="center"> <b> If you found this repository helpful, give us a  ⭐️ </b> </p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+10+%E2%98%85" alt="Typing SVG" /></a> </p>
